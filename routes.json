@@ -1,0 +1,4 @@
+{
+    "/osrm/1/driving/:coordinates": "/osrm/1",
+    "/mapbox/1/driving/:coordinates": "/mapbox/1"
+}
